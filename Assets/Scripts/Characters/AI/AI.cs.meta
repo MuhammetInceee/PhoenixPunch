@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9cdf78cf3bff54cce982f095faa89ad4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - animationManager: {instanceID: 0}
+  - navMeshAgent: {instanceID: 0}
+  - puppetMaster: {instanceID: 0}
+  - player: {instanceID: 0}
+  - settings: {fileID: 11400000, guid: 0bc9fbfd1f29c472fa1034d58cd0be1e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 731ea2634d440473f97ed4eeff65654e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - swerveInputSystem: {instanceID: 0}
+  - manager: {instanceID: 0}
+  - mainPlayerSettings: {fileID: 11400000, guid: ef132e128056b496e910dc3573169df0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
